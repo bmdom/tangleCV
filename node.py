@@ -6,11 +6,11 @@ class NodeObj():
     id: int
     singular_c_value: int
     accumulated_c_value = 0
-    sensor_radius: 10
+    sensor_radius: 30
     seen = []
     validated = []
 
-    def __init__(self, x_pos, y_pos, x_vel, y_vel, c_val id):
+    def __init__(self, x_pos, y_pos, x_vel, y_vel, c_val, id):
         self.x_pos = x_pos
         self.y_pos = y_pos
         self.x_vel = x_vel
@@ -18,3 +18,4 @@ class NodeObj():
         self.singular_c_value = c_val
         self.accumulated_c_value = c_val
         self.id = id
+        self.sensor_radius = 30
