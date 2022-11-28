@@ -61,7 +61,7 @@ Contains original code written by our team. Used to simulate the basics of how T
 
 ## Technologies
 
-In order to fully incorporate our simulated environment we used VSCode as our coding IDE, Anaconda for package management, and github to maintain our work in a shared directory.  
+In order to fully incorporate our simulated environment we will be using VSCode as our coding IDE, Anaconda for package management, and github to maintain our work in a shared directory.  
 
  --- 
 
