@@ -40,12 +40,10 @@ We are working towards designing a simulated TangleCV environment that we can us
 
 ## How To Run The Code
 
-For this repo the only files required would be those contained in the python folder. The file node.py is used as a representative as a single node in a tangleCV network and proj.py is used to generate the network and maintain the nodes. Their roles are proj containts multiply node
+For this repo the only files required would be those contained in the python folder. The file node.py is used as a representative as a single node in a tangleCV network and proj.py is used to generate the network and maintain the nodes. Their roles are that proj contains multiple nodes objects
 
 Instructions are as follows:
-
 Enter a character or string of characters and press enter
-
 To exit, enter the string "end"
 
  --- 
