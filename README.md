@@ -40,13 +40,18 @@ We are working towards designing a simulated TangleCV environment that we can us
 
 ## How To Run The Code
 
-For this repo the only files required would be those contained in the python folder. The file node.py is used for (FIXME) and proj.py is used for (FIXME). Their roles are (FIXME).
+For this repo the only files required would be those contained in the python folder. The file node.py is used as a representative as a single node in a tangleCV network and proj.py is used to generate the network and maintain the nodes. Their roles are proj containts multiply node
+Instructions are as follows:
+Enter a character or string of characters and press enter
+To exit, enter the string "end"
 
  --- 
  
 ## Python Folder
 
 Contains original code written by our team. Used to simulate the basics of how Tangle functions. 
+
+Original goal was to create a virtual environment where nodes move around, and create a validation network when they come near each other. However, we ran into issues regarding nodes still maintaing their validation of certain nodes, even when out of range. This issue has not been resolved, but given more time, could be.
 
  --- 
  
