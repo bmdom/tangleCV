@@ -4,19 +4,19 @@
 
 ## Table of Contents  
 
-* [Duplicate Repo Folder](#markdown-header-duplicate-repo-folder) 
+* [Duplicate Repo Folder](#duplicate-repo-folder) 
 
-* [Simulator Code Folder](#markdown-header-simulator-code-folder) 
+* [Simulator Code Folder](#simulator-code-folder) 
 
-* [Python Folder](#markdown-header-python-folder) 
+* [Python Folder](#python-folder) 
 
-* [Our mission](#markdown-header-our-mission) 
+* [Our mission](#our-mission) 
 
-* [Technologies](#markdown-header-technologies) 
+* [Technologies](#technologies) 
 
-* [Features](#markdown-header-features) 
+* [Features](#features) 
 
-* [Future Steps](#markdown-header-future-steps) 
+* [Future Steps](#future-steps) 
 
 --- 
 
