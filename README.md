@@ -4,13 +4,15 @@
 
 ## Table of Contents  
 
+* [Team Members](#team-members)
+
+* [Our mission](#our-mission) 
+
 * [Duplicate Repo Folder](#duplicate-repo-folder) 
 
 * [Simulator Code Folder](#simulator-code-folder) 
 
 * [Python Folder](#python-folder) 
-
-* [Our mission](#our-mission) 
 
 * [Technologies](#technologies) 
 
@@ -18,7 +20,20 @@
 
 * [Future Steps](#future-steps) 
 
---- 
+ --- 
+## Team Members
+
+* Bianca Dominguez
+* Lucas Grogean
+* Derrick Roberts
+* Lance Simmons
+
+ --- 
+## Our Mission
+
+We our working toward designing a simulated TangleCV environment that we can use to attempt to exploit any TangleCV weaknesses by posing as an attacker. Our research aims to prove the high level of security, as well as, efficiency that TangleCV provides.
+
+ --- 
 
 ## Duplicate Repo Folder 
 
@@ -41,12 +56,6 @@ Intended to show how vehicles could communiate using <a href="https://console.hi
 ## Python Folder
 
 Contains original code written by our team. Used to simulate the basics of how Tangle functions. 
-
- --- 
-
-## Our Mission
-
-We our working toward designing a simulated TangleCV environment that we can use to attempt to exploit any TangleCV weaknesses by posing as an attacker. Our research aims to prove the high level of security, as well as, efficiency that TangleCV provides.
 
  --- 
 
