@@ -44,6 +44,7 @@ For this repo the only files required would be those contained in the python fol
 
 Instructions are as follows:
 Enter a character or string of characters and press enter
+
 To exit, enter the string "end"
 
  --- 
