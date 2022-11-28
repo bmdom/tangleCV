@@ -10,11 +10,12 @@
 
 * [How To Run The Code](#how-to-run-the-code)
 
+* [Python Folder](#python-folder) 
+
 * [Duplicate Repo Folder](#duplicate-repo-folder) 
 
 * [Simulator Code Folder](#simulator-code-folder) 
 
-* [Python Folder](#python-folder) 
 
 * [Technologies](#technologies) 
 
@@ -36,12 +37,19 @@
 We are working towards designing a simulated TangleCV environment that we can use to attempt to exploit any TangleCV weaknesses by posing as an attacker. Our research aims to prove the high level of security, as well as, efficiency that TangleCV provides.
 
  --- 
+
 ## How To Run The Code
 
 For this repo the only files required would be those contained in the python folder. The file node.py is used for (FIXME) and proj.py is used for (FIXME). Their roles are (FIXME).
 
  --- 
+ 
+## Python Folder
 
+Contains original code written by our team. Used to simulate the basics of how Tangle functions. 
+
+ --- 
+ 
 ## Duplicate Repo Folder 
 
 Contains code gathered from <a href="https://github.com/iotaledger/high-mobility-blueprints">this</a> github repo. </br>
@@ -60,11 +68,6 @@ Intended to show how vehicles could communiate using <a href="https://console.hi
 
  --- 
 
-## Python Folder
-
-Contains original code written by our team. Used to simulate the basics of how Tangle functions. 
-
- --- 
 
 ## Technologies
 
