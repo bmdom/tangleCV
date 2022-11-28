@@ -1,4 +1,6 @@
-### TangleCV 
+# TangleCV 
+
+--- 
 
 ## Table of Contents  
 
