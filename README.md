@@ -83,5 +83,5 @@ Currently we've implemented a small simulated environment using python.
 
 ## Future Steps
 
-Moving forward, we plan to continue improving our simulated environment to make it easier to understand, and we hope to get to the point where it can be used by other user's/organizations to show the value of TangleCV. 
+Moving forward, we plan to continue improving our simulated environment to make it easier to understand, and we hope to get to the point where it can be used by other users/organizations to show the value of TangleCV. 
 
