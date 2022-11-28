@@ -8,6 +8,8 @@
 
 * [Our mission](#our-mission) 
 
+* [How To Run The Code](#how-to-run-the-code)
+
 * [Duplicate Repo Folder](#duplicate-repo-folder) 
 
 * [Simulator Code Folder](#simulator-code-folder) 
@@ -32,6 +34,11 @@
 ## Our Mission
 
 We are working towards designing a simulated TangleCV environment that we can use to attempt to exploit any TangleCV weaknesses by posing as an attacker. Our research aims to prove the high level of security, as well as, efficiency that TangleCV provides.
+
+ --- 
+## How To Run The Code
+
+For this repo the only files required would be those contained in the python folder. 
 
  --- 
 
