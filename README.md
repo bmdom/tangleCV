@@ -38,7 +38,7 @@ We are working towards designing a simulated TangleCV environment that we can us
  --- 
 ## How To Run The Code
 
-For this repo the only files required would be those contained in the python folder. 
+For this repo the only files required would be those contained in the python folder. The file node.py is used for (FIXME) and proj.py is used for (FIXME). Their roles are (FIXME).
 
  --- 
 
