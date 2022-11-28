@@ -31,7 +31,7 @@
  --- 
 ## Our Mission
 
-We our working toward designing a simulated TangleCV environment that we can use to attempt to exploit any TangleCV weaknesses by posing as an attacker. Our research aims to prove the high level of security, as well as, efficiency that TangleCV provides.
+We are working towards designing a simulated TangleCV environment that we can use to attempt to exploit any TangleCV weaknesses by posing as an attacker. Our research aims to prove the high level of security, as well as, efficiency that TangleCV provides.
 
  --- 
 
